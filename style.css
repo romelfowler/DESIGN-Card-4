@@ -53,6 +53,8 @@ body {
     display: inline-block;
     padding: 7px 24px 7px 12px;
     position: relative;
+    border: 1px solid #235d80;
+    border-radius: 50px;
   }
   .category__nav li a:hover, .category__nav li a:focus {
     text-decoration: none;
