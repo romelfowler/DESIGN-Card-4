@@ -40,11 +40,10 @@ body {
     margin-top: -11px;
     display: block;
     margin-bottom: 71px;
-    margin-left: -13px;
   }
   .category__nav li {
     float: left;
-    margin-right: 5px;
+    margin-right: 10px;
   }
   .category__nav li a {
     color: #235d80;
